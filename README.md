@@ -21,7 +21,7 @@ Durante a análise, avaliamos:
 - 🚚 Média de frete por pedido  
 - 📦 Produtos e categorias mais e menos vendidos  
 
-Com base nesses critérios, buscamos identificar qual loja apresenta **o desempenho mais fraco** de forma geral, considerando fatores financeiros, operacionais e de satisfação do cliente.
+Com base nesses critérios, busquei identificar qual loja apresenta **o desempenho mais fraco** de forma geral, considerando fatores financeiros, operacionais e de satisfação do cliente.
 
 ## 📁 Estrutura do Projeto
 ```
@@ -40,6 +40,24 @@ Com base nesses critérios, buscamos identificar qual loja apresenta **o desempe
   - `numpy`
   - `matplotlib`
   - `squarify`
+ 
+## 🔍 Sobre o Processo Analítico
+
+Nesta análise, utilizei a biblioteca **pandas** como principal ferramenta para manipulação e exploração dos dados. Como as tabelas disponibilizadas para a atividade já estavam limpas e padronizadas, não foi necessário realizar um processo de limpeza ou tratamento de dados — o que me permitiu focar diretamente na exploração e interpretação dos dados.
+
+### Etapas Realizadas:
+
+1. **Importação dos dados:**  
+   As tabelas foram importadas usando `pandas.read_csv()` e organizadas em dataframes para facilitar a análise.
+
+2. **Exploração e análise estatística:**  
+   Com o auxílio de `pandas` e `numpy`, foram realizadas análises descritivas, como soma de faturamento por loja, média de frete, e contagem de vendas por produto e por categoria.
+
+3. **Visualização dos dados:**  
+   Para facilitar a interpretação e a apresentação dos resultados, foram criados gráficos com `matplotlib` e `squarify` (para representar, por exemplo, a distribuição de vendas entre categorias com diagramas de treemap).
+
+4. **Comparação entre lojas:**  
+   Com as informações extraídas, comparei as lojas em relação ao faturamento, avaliações de clientes e desempenho de vendas, buscando evidências que ajudassem a identificar qual loja apresenta menor desempenho geral.
 
 ## ✅ Considerações Finais
 
