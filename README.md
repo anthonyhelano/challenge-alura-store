@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/status-finalizado-green)]()
 [![Repo](https://img.shields.io/badge/GitHub-anthonyhelano%2Fchallenge--alura--store-blue?logo=github)](https://github.com/anthonyhelano/challenge-alura-store)
 
