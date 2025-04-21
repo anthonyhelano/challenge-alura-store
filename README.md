@@ -2,12 +2,7 @@
   <img src="badge.png" alt="Badge do Projeto" width="300"/>
 </p>
 
-# 📊 Análise de Dados - Alura Store
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-[![Status](https://img.shields.io/badge/status-finalizado-green)]()
-[![Repo](https://img.shields.io/badge/GitHub-anthonyhelano%2Fchallenge--alura--store-blue?logo=github)](https://github.com/anthonyhelano/challenge-alura-store)
+# 📊 Análise de Dados - Alura stos
 
 ---
 
@@ -64,12 +59,10 @@ Nesta análise, utilizei a biblioteca **pandas** como principal ferramenta para 
 
 ## ✅ Considerações Finais
 
-O resultado completo da análise pode ser conferido no notebook [`AluraStoreBr.ipynb`](https://github.com/anthonyhelano/challenge-alura-store/blob/main/AluraStoreBr.ipynb).
+O resultado completo da análise pode ser conferido no notebook [`AluraStoreBr.ipynb`](https://github.com/macedo19html/challenge-alura-store/blob/main/AluraStoreBr.ipynb).
 
 Esse é meu primeiro projeto focado em análise de dados. Ele foi criado com fins educacionais e como uma forma de praticar e demonstrar habilidades em análise exploratória e como parte obrigatória da graduação. Sugestões e melhorias são sempre bem-vindas!
 
 ---
-
-🔗 Repositório: [github.com/anthonyhelano/challenge-alura-store](https://github.com/anthonyhelano/challenge-alura-store)
 
 
